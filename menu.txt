@@ -1,0 +1,2 @@
+coffee: 4.99 150 cal
+donut:.99 250 cal
