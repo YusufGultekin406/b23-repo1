@@ -1,3 +1,7 @@
 B23 is learning git
 
 We just made our first commit
+
+
+
+git keeps track of changes from last point from your last commit and you can make another commit when you do changes and you can write about your changes and ssavethem in the git repo history under the .git folder
